@@ -1,0 +1,24 @@
+{
+  "adsApp": [
+    {
+      "icon": "https://raw.githubusercontent.com/data040521/covmker/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/data040521/covmker/master/ads/poster1.png",
+      "appName": "Selfie Camera Filters",
+      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
+      "package": "com.sweet.camera.selfie.filters",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/data040521/covmker/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data040521/covmker/master/ads/graphic.png",
+      "appName": "Sweet Live Filter",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "beauty.picshop.sweet.live.filter.cat.face.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    }
+  ]
+}
