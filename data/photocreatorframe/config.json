@@ -15,23 +15,23 @@
   "slider": [
     {
       "link": "data/photocreatorframe/post17",
-      "thumb": "res/template/photocreatorframe/thumbs/thumb_17.jpg"
+      "thumb": "res/template/photocreatorframe/thumbs/17.jpg"
     },
     {
       "link": "data/photocreatorframe/post18",
-      "thumb": "res/template/photocreatorframe/thumbs/thumb_18.jpg"
+      "thumb": "res/template/photocreatorframe/thumbs/18.jpg"
     },
     {
       "link": "data/photocreatorframe/post21",
-      "thumb": "res/template/photocreatorframe/thumbs/thumb_21.jpg"
+      "thumb": "res/template/photocreatorframe/thumbs/21.jpg"
     },
     {
       "link": "data/photocreatorframe/post22",
-      "thumb": "res/template/photocreatorframe/thumbs/thumb_22.jpg"
+      "thumb": "res/template/photocreatorframe/thumbs/22.jpg"
     },
     {
       "link": "data/photocreatorframe/post23",
-      "thumb": "res/template/photocreatorframe/thumbs/thumb_23.jpg"
+      "thumb": "res/template/photocreatorframe/thumbs/23.jpg"
     }
   ]
 }
