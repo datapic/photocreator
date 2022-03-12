@@ -3,6 +3,7 @@
       {
         "name": "",
         "type": 1,
+        "is_frame": true,
         "list": [
           {
             "link": "data/photocreatorframe/post1",
