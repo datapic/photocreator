@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "native_ads_app_pos": 2,
+  "sticker": "res/template/templatemaker/sticker/info.json",
+  "background": "res/template/templatemaker/background/info.json",
+  "am_ba": "",
+  "am_in": "",
+  "am_na": "",
+  "link": "data/templatemaker/info.json",
+  "am_vi": "",
+"watch_video":600,
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "ads_app":"ads/ads.json",
+  "slider": [
+    {
+      "link": "data/templatemaker/post20",
+      "thumb": "res/template/templatemaker/thumbs/020.png"
+    },
+    {
+      "link": "data/templatemaker/post17",
+      "thumb": "res/template/templatemaker/thumbs/017.png"
+    },
+    {
+      "link": "data/templatemaker/post22",
+      "thumb": "res/template/templatemaker/thumbs/022.png"
+    },
+    {
+      "link": "data/templatemaker/post28",
+      "thumb": "res/template/templatemaker/thumbs/028.png"
+    },
+    {
+      "link": "data/templatemaker/post30",
+      "thumb": "res/template/templatemaker/thumbs/030.png"
+    }
+  ]
+}
