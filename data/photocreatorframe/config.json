@@ -11,27 +11,5 @@
   "am_vi": "",
 "watch_video":600,
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
-  "ads_app":"ads/ads.json",
-  "slider": [
-    {
-      "link": "data/photocreatorframe/post20",
-      "thumb": "res/template/photocreatorframe/thumbs/20.png"
-    },
-    {
-      "link": "data/photocreatorframe/post17",
-      "thumb": "res/template/photocreatorframe/thumbs/17.png"
-    },
-    {
-      "link": "data/photocreatorframe/post22",
-      "thumb": "res/template/photocreatorframe/thumbs/22.png"
-    },
-    {
-      "link": "data/photocreatorframe/post28",
-      "thumb": "res/template/photocreatorframe/thumbs/28.png"
-    },
-    {
-      "link": "data/photocreatorframe/post30",
-      "thumb": "res/template/photocreatorframe/thumbs/30.png"
-    }
-  ]
+  "ads_app":"ads/ads.json"
 }
