@@ -15,24 +15,24 @@
   "ads_app":"ads/ads.json",
   "slider": [
     {
-      "link": "data/templatemaker/post20",
-      "thumb": "res/template/templatemaker/thumbs/020.png"
+      "link": "data/templatemaker/post01",
+      "thumb": "res/template/templatemaker/thumbs/01.png"
     },
     {
-      "link": "data/templatemaker/post17",
-      "thumb": "res/template/templatemaker/thumbs/017.png"
+      "link": "data/templatemaker/post06",
+      "thumb": "res/template/templatemaker/thumbs/06.png"
     },
     {
-      "link": "data/templatemaker/post22",
-      "thumb": "res/template/templatemaker/thumbs/022.png"
+      "link": "data/templatemaker/post07",
+      "thumb": "res/template/templatemaker/thumbs/07.png"
     },
     {
-      "link": "data/templatemaker/post28",
-      "thumb": "res/template/templatemaker/thumbs/028.png"
+      "link": "data/templatemaker/post26",
+      "thumb": "res/template/templatemaker/thumbs/026.png"
     },
     {
-      "link": "data/templatemaker/post30",
-      "thumb": "res/template/templatemaker/thumbs/030.png"
+      "link": "data/templatemaker/post14",
+      "thumb": "res/template/templatemaker/thumbs/014.png"
     }
   ]
 }
