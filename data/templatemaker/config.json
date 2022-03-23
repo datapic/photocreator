@@ -15,15 +15,15 @@
   "ads_app":"ads/ads.json",
   "slider": [
     {
-      "link": "data/templatemaker/post01",
+      "link": "data/templatemaker/post1",
       "thumb": "res/template/templatemaker/thumbs/01.png"
     },
     {
-      "link": "data/templatemaker/post06",
+      "link": "data/templatemaker/post6",
       "thumb": "res/template/templatemaker/thumbs/06.png"
     },
     {
-      "link": "data/templatemaker/post07",
+      "link": "data/templatemaker/post7",
       "thumb": "res/template/templatemaker/thumbs/07.png"
     },
     {
